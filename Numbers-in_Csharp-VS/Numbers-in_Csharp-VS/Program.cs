@@ -10,20 +10,15 @@ namespace Numbers_in_Csharp_VS
     {
         static void Main(string[] args)
         {
-            int a = 8;
-            int b = 5;
-     
-            int c = a + b;
-            Console.WriteLine($"Addition: {c}");
+            double a = 6;
+            double b = 4;
+            double c = 3;
+            double d = (a + b) / c;
+            Console.WriteLine(d);
 
-            c = a - b;
-            Console.WriteLine($"Subtraction: {c}");
-
-            c = a * b;
-            Console.WriteLine($"Multiplication: {c}");
-
-            c = a / b;
-            Console.WriteLine($"Division: {c}");
+            double max = double.MaxValue;
+            double min = double.MinValue;
+            Console.WriteLine($"The range of double is {min} to {max}.");
             Console.ReadKey();
         }
     }
