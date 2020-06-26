@@ -14,7 +14,7 @@ namespace Numbers_in_Csharp_VS
             int b = 5;
      
             int c = a + b;
-            Console.WriteLine($"Addiction: {c}");
+            Console.WriteLine($"Addition: {c}");
 
             c = a - b;
             Console.WriteLine($"Subtraction: {c}");
