@@ -1,0 +1,7 @@
+C:\Users\joabu\source\repos\Numbers-in-Csharp\Numbers-in_Csharp-VS\Numbers-in_Csharp-VS\bin\Debug\Numbers-in_Csharp-VS.exe.config
+C:\Users\joabu\source\repos\Numbers-in-Csharp\Numbers-in_Csharp-VS\Numbers-in_Csharp-VS\bin\Debug\Numbers-in_Csharp-VS.exe
+C:\Users\joabu\source\repos\Numbers-in-Csharp\Numbers-in_Csharp-VS\Numbers-in_Csharp-VS\bin\Debug\Numbers-in_Csharp-VS.pdb
+C:\Users\joabu\source\repos\Numbers-in-Csharp\Numbers-in_Csharp-VS\Numbers-in_Csharp-VS\obj\Debug\Numbers-in_Csharp-VS.csprojAssemblyReference.cache
+C:\Users\joabu\source\repos\Numbers-in-Csharp\Numbers-in_Csharp-VS\Numbers-in_Csharp-VS\obj\Debug\Numbers-in_Csharp-VS.csproj.CoreCompileInputs.cache
+C:\Users\joabu\source\repos\Numbers-in-Csharp\Numbers-in_Csharp-VS\Numbers-in_Csharp-VS\obj\Debug\Numbers-in_Csharp-VS.exe
+C:\Users\joabu\source\repos\Numbers-in-Csharp\Numbers-in_Csharp-VS\Numbers-in_Csharp-VS\obj\Debug\Numbers-in_Csharp-VS.pdb
