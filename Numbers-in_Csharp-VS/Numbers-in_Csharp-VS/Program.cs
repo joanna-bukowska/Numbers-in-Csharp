@@ -16,11 +16,15 @@ namespace Numbers_in_Csharp_VS
 
             double a = 1.0;
             double b = 3.0;
-            Console.WriteLine(a / b);
-            //M - liczba ma stale używać typu decimal, gdy tego nie będzie, przyjmuje typ double
+            Console.WriteLine(a/b);
+            // M - liczba ma stale używać typu decimal, gdy tego nie będzie, przyjmuje typ double
             decimal c = 1.0M;
             decimal d = 3.0M;
-            Console.WriteLine(c / d);
+            Console.WriteLine(c/d);
+
+            // pole koła o promieniu 2,5cm
+            double r = 2.5;
+            Console.WriteLine(Math.PI*Math.Pow(r,2));
             Console.ReadKey();
         }
     }
